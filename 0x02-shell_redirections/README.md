@@ -1,3 +1,1 @@
-script that displays a confused 
-
-smiley
+What about 2?
