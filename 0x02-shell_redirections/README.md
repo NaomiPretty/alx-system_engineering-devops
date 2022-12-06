@@ -1,1 +1,1 @@
-count directories
+make directories count
